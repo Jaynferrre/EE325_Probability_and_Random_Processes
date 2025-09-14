@@ -16,10 +16,5 @@
 
 #### Continuous
 - [x] 10: Continuous Random Variables 
-- [x] 11: Expected Values for Continuous Random Variables 
-- [x] 12: Multiple Continuous Random Variables 
-- [x] 13: Conditional Probability Density Functions
-- [x] 14: Continuous N-Dimensional Random Variables 
-- [x] 15: Probability and Moment Approximations Using Limit Theorems 
-- [x] 22: Markov Chains
+
   
