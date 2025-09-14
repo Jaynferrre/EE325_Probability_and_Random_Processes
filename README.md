@@ -21,13 +21,5 @@
 - [x] 13: Conditional Probability Density Functions
 - [x] 14: Continuous N-Dimensional Random Variables 
 - [x] 15: Probability and Moment Approximations Using Limit Theorems 
-
-#### Random Processes
-- [x] 16: Basic Random Processes 
-- [x] 17: Wide Sense Stationary Random Processes 
-- [x] 18: Linear Systems and Wide Sense Stationary Random Processes 
-- [x] 19: Multiple Wide Sense Stationary Random Processes 
-- [x] 20: Guassian Random Processes
-- [x] 21: Poisson Random Processes 
 - [x] 22: Markov Chains
   
